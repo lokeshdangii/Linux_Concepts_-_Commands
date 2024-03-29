@@ -1,0 +1,12 @@
+This is file c.
+It contains more text than the previous files.
+Here are some differences:
+1. Apple
+2. Banana
+3. Mango
+4. Guava
+5. Pear
+6. Kiwi
+7. Pineapple
+8. Watermelon
+

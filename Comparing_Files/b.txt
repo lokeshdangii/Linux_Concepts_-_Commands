@@ -1,0 +1,8 @@
+This is file b.
+It has some text in it.
+Here are some differences:
+1. Apple
+2. Banana
+3. Mango
+4. Guava
+
